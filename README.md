@@ -1,11 +1,14 @@
 # RKeyBoardShortcuts
 Useful R keyboard shortcuts
 
+
+# Shortcuts 
+
 - Windows & Linux `	Ctrl+Alt+..`
 
 - Mac `Command+Option`
 
-# Shortcuts 
+-----------------------------------------------------------------------------------------------------
 
 - `R`: Run current document
 
